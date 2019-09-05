@@ -1,7 +1,7 @@
 {
-  "name": "@ckeditor/ckeditor5-build-classic",
-  "version": "12.4.1",
-  "description": "The classic editor build of CKEditor 5 – the best browser-based rich text editor.",
+  "name": "ckeditor5-build-classic-image-promise",
+  "version": "12.4.2",
+  "description": "CKEditor 5 build classic with image promise plugin",
   "keywords": [
     "ckeditor5-build",
     "ckeditor",
