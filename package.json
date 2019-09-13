@@ -1,6 +1,6 @@
 {
   "name": "ckeditor5-build-classic-image-promise",
-  "version": "12.4.2",
+  "version": "12.4.3",
   "description": "CKEditor 5 build classic with image promise plugin",
   "keywords": [
     "ckeditor5-build",
@@ -88,6 +88,8 @@
     }
   },
   "dependencies": {
+    "@ckeditor/ckeditor5-alignment": "^11.2.0",
+    "@ckeditor/ckeditor5-font": "^11.2.2",
     "ckeditor-image-promise-plugin": "git+https://github.com/brndusic/ckeditor5-image-promise.git"
   }
 }
